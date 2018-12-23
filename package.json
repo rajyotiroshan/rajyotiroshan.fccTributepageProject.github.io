@@ -1,0 +1,21 @@
+{
+  "name": "a_tributepage",
+  "version": "1.0.0",
+  "description": "a tribute page fcc project\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Drwed \u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001bd \u001b[D\u001b[D\u001b[D\u001b[-\u001b[C\u001b[C\u001b[C-project",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajyotiroshan/rajyotiroshan.fccTributepageProject.github.io.git"
+  },
+  "author": "rajan jha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajyotiroshan/rajyotiroshan.fccTributepageProject.github.io/issues"
+  },
+  "homepage": "https://github.com/rajyotiroshan/rajyotiroshan.fccTributepageProject.github.io#readme"
+}
